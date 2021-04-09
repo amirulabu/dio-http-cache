@@ -17,7 +17,7 @@ dependencies:
   dio:
     git:
       url: git@github.com:amirulabu/dio.git
-      ref: 3.0.9+1
+      ref: 3.0.12
       path: dio
   sqflite: ^1.1.6+3
   path: ^1.6.2
